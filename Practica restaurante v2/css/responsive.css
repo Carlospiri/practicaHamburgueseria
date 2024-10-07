@@ -1,0 +1,57 @@
+@media (max-width: 768px) {
+    /*//////////////////HEADER////////////////*/
+    .nav1 a{
+        display: none;
+    }
+    .nav2{
+        
+        display: block;
+        align-items: center;
+    }
+    .menu{
+        flex-direction: column;
+        align-items: center;
+    }
+    .menu ul{
+      
+
+    }
+    .menu li{
+        display:block;
+        align-items: center;
+        
+        
+    }
+    /*//////////////////MAIN////////////////*/
+
+.mainsection{
+    background-position: -300px;
+    
+}
+.main-text{
+    padding-left: 20px;
+}
+.articles{
+    display: block;
+}
+
+.aboutus{
+    padding: 0px;a
+    display: block;
+    flex-direction: column;
+
+}
+.articlenosotros{
+    padding: 0px;
+    margin-top: 50px;
+    display: block;
+    flex-direction: column;
+    .nosotros{
+        height: 20vh;
+    }
+
+}
+.imgcontainer{
+    margin-bottom: 30px;
+}
+}
